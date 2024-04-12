@@ -1,0 +1,90 @@
+*{
+/* border: 1px solid red; */
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+body{
+background-repeat: no-repeat;
+background:linear-gradient(135deg, rgb(206, 97, 186), rgb(81, 0, 255)) ;
+
+color: white;
+margin: 0px;
+
+text-align: center; 
+vertical-align: middle;
+padding: 10px;
+}
+
+.countainer{
+    height: 100vh; 
+  
+
+}
+.col1{
+ margin: 70px;
+/* width: 250px; */
+height: 33vh;
+
+}
+
+.col2{
+ margin: 70px; 
+/* width: 250px; */
+height: 33vh;
+}
+.col3{
+    margin: 70px;
+    /* width: 250px; */
+    height: 33vh;
+}
+.box{
+    border: 2px solid red;
+    
+    display: inline-block;
+
+width: 300px;
+height: 300px;
+margin: 50px;
+padding: 115px;
+}
+.box1{
+    border: none;
+
+
+}
+.box2{
+    border: 1cap dotted  rgb(8, 42, 215);
+
+}
+.box3{
+    border: 1cap dashed rgb(8, 42, 215);
+}
+
+.box4{
+    border: solid 4px rgb(8, 42, 215);
+
+}
+.box5{
+    border:1cap double rgb(8, 42, 215);
+
+}
+.box6{
+    border: 1cap groove rgb(8, 42, 215);
+
+}
+.box7{
+    border:1cap ridge rgb(8, 42, 215);
+
+}
+.box8{
+    border: 1cap inset rgb(8, 42, 215);
+
+}
+.box9{
+    border: 1cap outset rgb(8, 42, 215);
+
+}
+
+
